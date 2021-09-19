@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Grechen Fuemen', cursive;
+        src: url(Grechen_Fuemen);
+    font-style: normal;
+    font-weight: 100;
+}
+h1, p{
+    font-family: 'Grechen Fuemen', cursive;}
